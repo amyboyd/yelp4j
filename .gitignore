@@ -1,0 +1,6 @@
+/.idea
+/src/test/java/uk/co/amyboyd/yelp4j/test.properties
+/Yelp4J.iml
+/target
+/deploy.xml
+/release.properties
