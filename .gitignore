@@ -1,0 +1,10 @@
+/.idea
+/src/test/java/uk/co/amyboyd/yelp4j/test.properties
+/Yelp4J.iml
+/target
+/deploy.xml
+/pom.xml.releaseBackup
+/pubring.gpg.asc
+/release.properties
+/secring.gpg.asc
+/settings.xml.asc
