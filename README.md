@@ -1,6 +1,19 @@
 Yelp4J
 ======
 
+Installation
+------------
+
+Add to your pom.xml:
+
+```xml
+<dependency>
+    <groupId>uk.co.amyboyd.yelp4j</groupId>
+    <artifactId>yelp4j</artifactId>
+    <version>LATEST</version>
+</dependency>
+```
+
 Usage
 -----
 
